@@ -106,4 +106,4 @@ sleep 3
 systemctl start pbs
 
 
-echo "✅ Node $NODE_HOSTNAME ($NODE_IP) setup completed!"
+echo " Node $NODE_HOSTNAME ($NODE_IP) setup completed!"
